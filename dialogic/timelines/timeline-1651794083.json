@@ -73,8 +73,21 @@
 			"text": "Clanker? But I'm not-"
 		},
 		{
-			"emit_signal": "cutscene",
-			"event_id": "dialogic_040"
+			"change_scene": "",
+			"event_id": "dialogic_041"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 30
+		},
+		{
+			"change_scene": "",
+			"event_id": "dialogic_041"
+		},
+		{
+			"event_id": "dialogic_022",
+			"transition_duration": 1
 		}
 	],
 	"metadata": {
