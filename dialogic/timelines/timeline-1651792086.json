@@ -1,0 +1,117 @@
+{
+	"events": [
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1651787755.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1651711853.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": true,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Why are we crowded around here?"
+		},
+		{
+			"character": "character-1651787755.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "The mayor is hiding in there. We've got a bone to pick with her."
+		},
+		{
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Why? What did she do?"
+		},
+		{
+			"character": "character-1651787755.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "She was found drunk in the bar, shouting at the world."
+		},
+		{
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Why would that make everyone mad?"
+		},
+		{
+			"character": "character-1651787755.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "After she went back to the mayoral office drunk, she started throwing out important papers that had information about her sending our location to the Clankers."
+		},
+		{
+			"character": "character-1651711853.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And why is that a problem?"
+		},
+		{
+			"character": "character-1651787755.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "CLANKER!!!"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.1",
+		"file": "timeline-1651792086.json",
+		"name": "ConvoProtest"
+	}
+}

@@ -1,0 +1,137 @@
+{
+	"events": [
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1651782695.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1651782695.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hello? Is anyone there?"
+		},
+		{
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yes, I’m here. Who are you?"
+		},
+		{
+			"character": "character-1651782695.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh, thank god. Someone’s here."
+		},
+		{
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Who are you?"
+		},
+		{
+			"character": "character-1651782695.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "My name is Bill. I’m trapped in this place and I don’t know how to get out."
+		},
+		{
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Where exactly are you?"
+		},
+		{
+			"character": "character-1651782695.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "That’s the funny part. I don’t really know myself."
+		},
+		{
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I can’t say that I can help you without a general description of the place you’re stuck in."
+		},
+		{
+			"character": "character-1651782695.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ok. Well, it’s a rather large room in the Trash compaction facility."
+		},
+		{
+			"character": "character-1651782695.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": " I’d suggest coming soon."
+		},
+		{
+			"definition": "",
+			"event_id": "dialogic_014",
+			"operation": "=",
+			"random_lower_limit": 1,
+			"random_upper_limit": 100,
+			"set_random": true,
+			"set_value": ""
+		},
+		{
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_012",
+			"value": "1"
+		},
+		{
+			"character": "character-1651782695.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "It also seems that the animatronics here have become a bit quirky due to it being a night."
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"event_id": "dialogic_022",
+			"transition_duration": 1
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.1",
+		"file": "timeline-1651782675.json",
+		"name": "a2p1c0"
+	}
+}

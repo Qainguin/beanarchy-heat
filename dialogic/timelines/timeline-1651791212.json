@@ -1,0 +1,161 @@
+{
+	"events": [
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1651711853.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": true,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1651787755.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1651787755.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I don't talk to Clankers."
+		},
+		{
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Would you be willing to talk to me then?"
+		},
+		{
+			"character": "character-1651787755.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Get rid of the Clanker."
+		},
+		{
+			"character": "character-1651711853.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Fine, I'll go."
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1651711853.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 1,
+			"z_index": 0
+		},
+		{
+			"character": "character-1651787755.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Good."
+		},
+		{
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Why did you want him gone?"
+		},
+		{
+			"character": "character-1651787755.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "They’re planning to invade. I can’t take any chances."
+		},
+		{
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "[i]Invade?[/i]"
+		},
+		{
+			"character": "character-1651787755.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yep."
+		},
+		{
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Why?"
+		},
+		{
+			"character": "character-1651787755.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "They want to get rid of us indefinitely. Blasting us off of Earth wasn't enough."
+		},
+		{
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.1",
+		"file": "timeline-1651791212.json",
+		"name": "Convo5"
+	}
+}

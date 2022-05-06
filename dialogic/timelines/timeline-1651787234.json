@@ -1,0 +1,132 @@
+{
+	"events": [
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1651711853.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Um... Sir?"
+		},
+		{
+			"character": "character-1651711853.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Call me Steamscream."
+		},
+		{
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mister Steamscream, I-"
+		},
+		{
+			"character": "character-1651711853.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Just Steamscream. No mister."
+		},
+		{
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Steamscream, I’ve been wondering. Was that you that shot the gas at Bill?"
+		},
+		{
+			"character": "character-1651711853.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What?"
+		},
+		{
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Bill."
+		},
+		{
+			"character": "character-1651711853.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'm... not sure I understand. Bill's been dead since the Kaben invasion."
+		},
+		{
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Kaben"
+		},
+		{
+			"change_scene": "",
+			"event_id": "dialogic_041"
+		},
+		{
+			"event_id": "dialogic_023",
+			"hide_dialogbox": true,
+			"wait_seconds": 30
+		},
+		{
+			"change_scene": "",
+			"event_id": "dialogic_041"
+		},
+		{
+			"character": "character-1651711853.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "So in a way, the GAA lost."
+		},
+		{
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"event_id": "dialogic_022",
+			"transition_duration": 1
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.1",
+		"file": "timeline-1651787234.json",
+		"name": "a1p2c1"
+	}
+}

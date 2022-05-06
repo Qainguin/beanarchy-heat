@@ -1,0 +1,83 @@
+{
+	"events": [
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1651782695.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Bill? Are you there?"
+		},
+		{
+			"character": "character-1651782695.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Yes, I am. Where are you currently?"
+		},
+		{
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'm in this flagship next to this wall of skulls."
+		},
+		{
+			"character": "character-1651782695.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'm in the room with the skull wall."
+		},
+		{
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Okay, I'll check it out."
+		},
+		{
+			"event_id": "dialogic_022",
+			"transition_duration": 1
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.1",
+		"file": "timeline-1651783278.json",
+		"name": "a2p2c0"
+	}
+}

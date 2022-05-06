@@ -1,0 +1,193 @@
+{
+	"events": [
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1651788618.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1651711853.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": true,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1651788618.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What do you want?"
+		},
+		{
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hi. I'm Mike."
+		},
+		{
+			"character": "character-1651788618.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I didn't ask. What do you want?"
+		},
+		{
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "When was this place founded?"
+		},
+		{
+			"character": "character-1651788618.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "About 263 years ago. Started as a facility for convicts, ended up as a polluted city."
+		},
+		{
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Convicts?"
+		},
+		{
+			"character": "character-1651788618.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You aren’t that bright, eh? Yes, this was originally a prison for convicts to both do their time and help the bigger settlements. They ignored the smaller ones."
+		},
+		{
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "How come?"
+		},
+		{
+			"character": "character-1651788618.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Don't know. My town starved."
+		},
+		{
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'm so sorry. Is there anything I can do to help?"
+		},
+		{
+			"character": "character-1651788618.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Depends. Is there a real Steam Droid?"
+		},
+		{
+			"character": "character-1651711853.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "In fact, I am. Nice to be called something other than a Clanker."
+		},
+		{
+			"character": "character-1651788618.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "R’right. You two seem like you can pull your own weight in my movement."
+		},
+		{
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What movement?"
+		},
+		{
+			"character": "character-1651788618.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "This city is corrupt. I’m intent on tearing it to shreds."
+		},
+		{
+			"character": "character-1651711853.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well-"
+		},
+		{
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We'll do it."
+		},
+		{
+			"character": "character-1651788618.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Great."
+		},
+		{
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You know, I never got your name."
+		},
+		{
+			"character": "character-1651788618.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "We'll get introductions done later."
+		},
+		{
+			"event_id": "dialogic_022",
+			"transition_duration": 1
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.1",
+		"file": "timeline-1651788600.json",
+		"name": "ConvoMichelle"
+	}
+}

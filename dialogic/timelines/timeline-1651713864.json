@@ -1,0 +1,149 @@
+{
+	"events": [
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1651711853.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1651711853.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I knew you’d come back. You missed me, didn’t you?"
+		},
+		{
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "No, I can’t actually go farther into this place and had to come back."
+		},
+		{
+			"character": "character-1651711853.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh."
+		},
+		{
+			"character": "character-1651711853.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well, um, hah! That barrier you speak of was made by me!"
+		},
+		{
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You don’t seem to be a person who would want to build anything."
+		},
+		{
+			"character": "character-1651711853.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You barely know me."
+		},
+		{
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I know enough."
+		},
+		{
+			"character": "character-1651711853.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Fine, you caught me. I didn’t make the flesh wall."
+		},
+		{
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Flesh wall...?"
+		},
+		{
+			"character": "character-1651711853.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Flesh. As in the skin suits your species wears. "
+		},
+		{
+			"character": "character-1651711853.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "They’re disgusting."
+		},
+		{
+			"character": "character-1651711853.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh wow, something you do know. Well, the reason for it being flesh is beyond your human understanding."
+		},
+		{
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well, how do I get past it?"
+		},
+		{
+			"character": "character-1651711853.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Why should I tell you?"
+		},
+		{
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Um… I’ll give you a hug."
+		},
+		{
+			"character": "character-1651711853.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "...\nDeal."
+		},
+		{
+			"event_id": "dialogic_022",
+			"transition_duration": 1
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.1",
+		"file": "timeline-1651713864.json",
+		"name": "a1p2c0"
+	}
+}

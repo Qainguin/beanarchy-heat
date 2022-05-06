@@ -1,0 +1,85 @@
+{
+	"events": [
+		{
+			"character": "character-1651711853.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sir, I don’t understand-"
+		},
+		{
+			"character": "character-1651795490.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Shut it, clanker. I’m turning both you and your little friend in."
+		},
+		{
+			"character": "character-1651711853.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mike? But-"
+		},
+		{
+			"character": "character-1651795490.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Tell me where they are."
+		},
+		{
+			"character": "character-1651711853.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "They're not here."
+		},
+		{
+			"character": "character-1651795490.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sure."
+		},
+		{
+			"character": "character-1651711853.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I’m serious! They’re-"
+		},
+		{
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Right here."
+		},
+		{
+			"character": "character-1651795490.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Ah. So here you are."
+		},
+		{
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Why are we wanted?"
+		},
+		{
+			"character": "character-1651795490.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "You should know that, clanker."
+		},
+		{
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Clanker? But I'm not-"
+		},
+		{
+			"emit_signal": "cutscene",
+			"event_id": "dialogic_040"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.1",
+		"file": "timeline-1651794083.json",
+		"name": "a3p1c1"
+	}
+}

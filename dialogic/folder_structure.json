@@ -1,0 +1,112 @@
+{
+	"files": [
+
+	],
+	"folders": {
+		"Characters": {
+			"files": [
+				"character-1651711853.json",
+				"character-1651712020.json",
+				"character-1651782695.json",
+				"character-1651787755.json",
+				"character-1651788342.json",
+				"character-1651788618.json",
+				"character-1651789169.json",
+				"character-1651795490.json"
+			],
+			"folders": {
+
+			},
+			"metadata": {
+				"color": null,
+				"folded": false
+			}
+		},
+		"Definitions": {
+			"files": [
+				"1651784990-648",
+				"1651785264-918",
+				"1651786203-483"
+			],
+			"folders": {
+
+			},
+			"metadata": {
+				"color": null,
+				"folded": false
+			}
+		},
+		"Themes": {
+			"files": [
+				"default-theme.cfg"
+			],
+			"folders": {
+
+			},
+			"metadata": {
+				"color": null,
+				"folded": false
+			}
+		},
+		"Timelines": {
+			"files": [
+				"timeline-1651711997.json",
+				"timeline-1651713864.json",
+				"timeline-1651782675.json",
+				"timeline-1651783278.json",
+				"timeline-1651783595.json",
+				"timeline-1651784205.json",
+				"timeline-1651784771.json",
+				"timeline-1651787234.json",
+				"timeline-1651793778.json",
+				"timeline-1651794083.json"
+			],
+			"folders": {
+				"Area3Convos": {
+					"files": [
+
+					],
+					"folders": {
+						"C0": {
+							"files": [
+								"timeline-1651787894.json",
+								"timeline-1651788253.json",
+								"timeline-1651788600.json",
+								"timeline-1651789088.json",
+								"timeline-1651791212.json",
+								"timeline-1651792086.json"
+							],
+							"folders": {
+
+							},
+							"metadata": {
+								"color": null,
+								"folded": false
+							}
+						},
+						"C1": {
+							"files": [
+
+							],
+							"folders": {
+
+							},
+							"metadata": {
+								"color": null,
+								"folded": false
+							}
+						}
+					},
+					"metadata": {
+						"color": null,
+						"folded": true
+					}
+				}
+			},
+			"metadata": {
+				"color": null,
+				"folded": false
+			}
+		}
+	}
+}

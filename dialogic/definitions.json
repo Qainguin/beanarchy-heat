@@ -1,0 +1,26 @@
+{
+	"glossary": [
+		{
+			"extra": "",
+			"id": "1651785264-918",
+			"name": "New glossary entry",
+			"text": "",
+			"title": "",
+			"type": 1
+		}
+	],
+	"variables": [
+		{
+			"id": "1651786203-483",
+			"name": "haveTalkedToBefore",
+			"type": 0,
+			"value": "0"
+		},
+		{
+			"id": "1651784990-648",
+			"name": "weaponNumber",
+			"type": 0,
+			"value": "flameKatana"
+		}
+	]
+}

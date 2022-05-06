@@ -1,0 +1,221 @@
+{
+	"events": [
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1651789169.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": true,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1651711853.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": true,
+				"4": false
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"animation": "[Default]",
+			"animation_length": 0,
+			"change_mirror_portrait": false,
+			"change_z_index": false,
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_002",
+			"mirror_portrait": false,
+			"portrait": "Default",
+			"portrait_definition": "",
+			"position": {
+				"0": false,
+				"1": false,
+				"2": false,
+				"3": false,
+				"4": true
+			},
+			"type": 0,
+			"z_index": 0
+		},
+		{
+			"character": "character-1651789169.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Hey, HEY, HEY! YOU look like the kind of GUY that would DIE if they had a DEAL this GOOD!"
+		},
+		{
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "What de-"
+		},
+		{
+			"character": "character-1651789169.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "And the BEST part? It’s at an even SMALLER price because of the CLANKER!!!"
+		},
+		{
+			"character": "character-1651711853.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Jesus."
+		},
+		{
+			"character": "character-1651789169.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Name's RON. THAMES RON."
+		},
+		{
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Can I please leave?"
+		},
+		{
+			"character": "character-1651789169.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "AND PASS UP A DEAL THIS GOOD? I THINK  K N O T"
+		},
+		{
+			"character": "character-1651711853.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Did you just make a pun?"
+		},
+		{
+			"character": "character-1651789169.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "SHUT up, CLANKER. YOU, on the other HAND, look LIKE a MAN who CAN’T PASS up a GOOD DEAL!!!"
+		},
+		{
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Uh... What's the deal?"
+		},
+		{
+			"character": "character-1651789169.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "SIMPLE, MY GOOD MAN. Take my REACTOR coefficient CORE for the MERE PRICE of   F R E E   N I N E T Y - N I N E"
+		},
+		{
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I don't have any money."
+		},
+		{
+			"character": "character-1651789169.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "F R E E   N I N E T Y - N I N E ,   Y O U   I D I O T .   I T ‘ S   F R E E"
+		},
+		{
+			"character": "character-1651711853.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "I'm not sure about this, Mike..."
+		},
+		{
+			"event_id": "dialogic_015",
+			"id": "anchor-1634488067",
+			"index": 0,
+			"name": "thamesQuestion"
+		},
+		{
+			"character": "character-1651789169.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Ignore HIM. YOU and ME? WE can be BIG BOYS. PEOPLE will LOOK at US with F E A R . Isn’t THAT what YOU want?"
+		},
+		{
+			"choice": "Yes",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sure, I guess."
+		},
+		{
+			"character": "character-1651789169.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Good CHOICE, mi PADRE. TAKE the REACTOR coefficient CORE. TAKE the REACTOR coefficient CORE to the CLANKER HABITAT. PLUG it INTO A DEAD CLANKER. Then COME BACK."
+		},
+		{
+			"emit_signal": "addSidequestThames",
+			"event_id": "dialogic_040"
+		},
+		{
+			"choice": "No",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Sorry, I can't."
+		},
+		{
+			"character": "character-1651789169.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "YOU’RE not LEAVING this SCREEN unless YOU say NO."
+		},
+		{
+			"anchor_id": "anchor-1634488067",
+			"event_id": "dialogic_016"
+		},
+		{
+			"event_id": "dialogic_013"
+		},
+		{
+			"event_id": "dialogic_022",
+			"transition_duration": 1
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.1",
+		"file": "timeline-1651789088.json",
+		"name": "ConvoThames"
+	}
+}

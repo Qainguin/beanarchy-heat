@@ -1,0 +1,73 @@
+{
+	"events": [
+		{
+			"character": "character-1651788342.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Mommy, who is that big robot?"
+		},
+		{
+			"character": "character-1651787755.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Well, Carla, that's-"
+		},
+		{
+			"character": "character-1651711853.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Steamscream. Pleasure to meet you."
+		},
+		{
+			"character": "character-1651787755.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Carla, get away from that Clanker."
+		},
+		{
+			"character": "character-1651788342.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Why?"
+		},
+		{
+			"character": "character-1651787755.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Listen to me, Carla. Stay away from it."
+		},
+		{
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Why?"
+		},
+		{
+			"character": "character-1651787755.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Oh god, it's a person. Listen to me. If you value your life, get away from that Clanker. Do you understand?"
+		},
+		{
+			"character": "character-1651712020.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Uh..."
+		},
+		{
+			"character": "character-1651711853.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "..."
+		},
+		{
+			"event_id": "dialogic_022",
+			"transition_duration": 1
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.1",
+		"file": "timeline-1651788253.json",
+		"name": "ConvoCarla"
+	}
+}
